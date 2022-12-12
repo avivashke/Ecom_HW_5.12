@@ -1,0 +1,24 @@
+.img{
+    
+    height: 25cm; 
+    width: 38cm;
+    border-style:solid;
+    border-radius: 1.5cm; 
+    border-color: azure;
+    padding: 50px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto; ;
+margin-top: 3cm;
+}
+.background{
+    background-color: rgb(81, 81, 232);
+}
+.headline{
+    text-align: center;
+    color: antiquewhite;
+    margin-top: 3cm;
+    font-size: 3cm;
+    font-family: papyrus;
+    
+}
